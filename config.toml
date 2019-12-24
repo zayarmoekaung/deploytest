@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+theme = "ananke"
+
+[params]
+featured_image = "Image/505642.png"
